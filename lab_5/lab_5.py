@@ -80,6 +80,7 @@ while True:
             lab_bg.place(x=0, y=0)
 
             window.mainloop()
+            
         case '0':
             break
         case _:
