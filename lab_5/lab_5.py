@@ -44,8 +44,6 @@ while True:
             city_id = get_city_id(input("Введите наименование нас. пункта: "))
             request_forecast(city_id)
 
-
-
         case '2':
             def getPage():
                 params = {
